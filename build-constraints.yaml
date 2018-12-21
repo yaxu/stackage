@@ -45,7 +45,7 @@ packages:
 
     "Andrew Newman <andrewfnewman@gmail.com> @andrewfnewman":
         - geojson
-
+44332
     "Mateusz Karbowy <mateusz.karbowy@gmail.com> @obszczymucha":
         - parsec-numbers
 
@@ -2699,9 +2699,9 @@ packages:
     "Lennart Kolmodin <kolmodin@gmail.com> @kolmodin":
         - binary-bits
 
-    "Alex McLean <lxyxpx@gmail.com> @yaxu":
-        - tidal < 0 # BuildFailureException Process exited with ExitFailure 1: ./Setup build
-        - tidal-midi < 0 # DependencyFailed (PackageName "tidal")
+    "Alex McLean <alex@slab.org> @yaxu":
+        - tidal
+        - hosc
 
     "Kei Hibino <ex8k.hibino@gmail.com> @khibino":
         - th-data-compat
