@@ -5986,7 +5986,6 @@ skipped-tests:
     - test-framework # tried test-framework-0.8.2.0, but its *test-suite* requires the disabled package: libxml
     - text-short # tried text-short-0.1.3, but its *test-suite* does not support: tasty-1.4.1
     - thyme # tried thyme-0.3.5.5, but its *test-suite* requires the disabled package: system-posix-redirect
-    - tidal # tried tidal-1.7.6, but its *test-suite* does not support: hosc-0.19
     - tomland # tried tomland-1.3.3.0, but its *test-suite* does not support: hspec-2.8.2
     - tree-diff # tried tree-diff-0.2, but its *test-suite* does not support: tasty-1.4.1
     - type-errors-pretty # tried type-errors-pretty-0.0.1.1, but its *test-suite* does not support: doctest-0.18.1
